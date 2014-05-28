@@ -1,0 +1,35 @@
+{
+  "name": "gulp-html2jade",
+  "version": "0.1.0",
+  "description": "gulp plugin to covert HTML to Jade format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/gulp-hogan"
+  },
+  "keywords": [
+    "jade",
+    "html",
+    "convert",
+    "gulpplugin"
+  ],
+  "author": "Hemanth.HM",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hemanth/gulp-hogan/issues"
+  },
+  "homepage": "https://github.com/hemanth/gulp-hogan",
+  "dependencies": {
+    "gulp-util": "~2.2.5",
+    "event-stream": "~3.0.20",
+    "map-stream": "0.0.4",
+    "hogan.js": "~2.0.0",
+    "html2jade": "~0.7.5"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
