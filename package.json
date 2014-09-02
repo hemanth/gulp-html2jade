@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hemanth/gulp-hogan"
+    "url": "https://github.com/hemanth/gulp-html2jade"
   },
   "keywords": [
     "jade",
@@ -19,9 +19,9 @@
   "author": "Hemanth.HM",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/hemanth/gulp-hogan/issues"
+    "url": "https://github.com/hemanth/gulp-html2jade/issues"
   },
-  "homepage": "https://github.com/hemanth/gulp-hogan",
+  "homepage": "https://github.com/hemanth/gulp-html2jade",
   "dependencies": {
     "gulp-util": "~2.2.5",
     "event-stream": "~3.0.20",
