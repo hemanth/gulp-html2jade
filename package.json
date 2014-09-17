@@ -1,6 +1,6 @@
 {
   "name": "gulp-html2jade",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "gulp plugin to covert HTML to Jade format.",
   "main": "index.js",
   "scripts": {
