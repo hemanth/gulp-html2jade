@@ -29,6 +29,6 @@
     "html2jade": "~0.8.1"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "2.3.3"
   }
 }
